@@ -148,11 +148,11 @@ small{
 .col5 img{
     width:100%;
     cursor:pointer;
-    filter:grayscale(100%);
+  /*  filter:grayscale(100%);*/
 }
-.col5 img:hover{
+/*.col5 img:hover{
     filter:grayscale(0);
-}
+}*/
 /*footer*/
 .footer{
     background:#000;
